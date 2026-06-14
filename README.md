@@ -23,17 +23,19 @@ Open `http://localhost:3000`.
 
 Set `MONGODB_URI` before running the app. The API stores recipes in the `recipe-share` database and the `recipes` collection.
 
-For Vercel, add `MONGODB_URI` and any Cloudinary variables in Project Settings > Environment Variables.
+For Vercel, add `MONGODB_URI` and the Cloudinary variables in Project Settings > Environment Variables.
 
 ## Cloud Photo Storage
 
-Set either `CLOUDINARY_URL` or all three of these variables before running the app:
+Set all three Cloudinary variables before uploading recipe photos:
 
 ```bash
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 ```
+
+You can also use `CLOUDINARY_URL` instead of the three separate variables.
 
 New recipe photos are uploaded to Cloudinary under the `recipe-share` folder, and deleted recipes remove their Cloudinary photo when the stored `photoPublicId` is available. Without Cloudinary credentials, recipes without photos can still be submitted, but photo uploads return a configuration error.
 
