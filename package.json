@@ -1,0 +1,21 @@
+{
+  "name": "recipe-share-next",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:seed": "node scripts/seed-mongodb.mjs",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cloudinary": "^2.10.0",
+    "lucide-react": "^0.468.0",
+    "mongodb": "^7.3.0",
+    "next": "^15.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

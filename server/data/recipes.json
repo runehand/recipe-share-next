@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sample-avocado-toast",
+    "title": "Avocado Toast",
+    "ingredients": "Sourdough bread, avocado, lemon juice, chili flakes, sea salt",
+    "instructions": "Toast the bread, mash avocado with lemon, spread it over the toast, and finish with chili flakes.",
+    "photoUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:01:00.000Z"
+  },
+  {
+    "id": "sample-tomato-pasta",
+    "title": "Tomato Basil Pasta",
+    "ingredients": "Pasta, cherry tomatoes, basil, garlic, olive oil, parmesan",
+    "instructions": "Cook pasta, simmer tomatoes with garlic, toss everything together, and top with parmesan.",
+    "photoUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:02:00.000Z"
+  },
+  {
+    "id": "sample-berry-pancakes",
+    "title": "Berry Pancakes",
+    "ingredients": "Flour, milk, egg, blueberries, strawberries, maple syrup",
+    "instructions": "Make the batter, cook pancakes until golden, then serve with berries and syrup.",
+    "photoUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:03:00.000Z"
+  },
+  {
+    "id": "sample-chicken-salad",
+    "title": "Grilled Chicken Salad",
+    "ingredients": "Chicken breast, romaine, cucumber, tomatoes, vinaigrette",
+    "instructions": "Grill chicken, slice it thin, and serve over crisp vegetables with vinaigrette.",
+    "photoUrl": "https://images.unsplash.com/photo-1546793665-c74683f339c1?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:04:00.000Z"
+  },
+  {
+    "id": "sample-veggie-tacos",
+    "title": "Veggie Tacos",
+    "ingredients": "Tortillas, black beans, corn, peppers, avocado, lime",
+    "instructions": "Warm tortillas, fill with beans and vegetables, then top with avocado and lime.",
+    "photoUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:05:00.000Z"
+  },
+  {
+    "id": "sample-salmon-rice",
+    "title": "Salmon Rice Bowl",
+    "ingredients": "Salmon, rice, cucumber, edamame, soy sauce, sesame seeds",
+    "instructions": "Bake salmon, add it to rice with vegetables, and drizzle with soy sauce.",
+    "photoUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:06:00.000Z"
+  },
+  {
+    "id": "sample-mushroom-risotto",
+    "title": "Mushroom Risotto",
+    "ingredients": "Arborio rice, mushrooms, stock, onion, butter, parmesan",
+    "instructions": "Cook onion and mushrooms, stir in rice, add stock gradually, and finish with butter and parmesan.",
+    "photoUrl": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:07:00.000Z"
+  },
+  {
+    "id": "sample-breakfast-bowl",
+    "title": "Breakfast Yogurt Bowl",
+    "ingredients": "Greek yogurt, granola, banana, berries, honey",
+    "instructions": "Spoon yogurt into a bowl, add fruit and granola, then drizzle with honey.",
+    "photoUrl": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:08:00.000Z"
+  },
+  {
+    "id": "sample-garlic-noodles",
+    "title": "Garlic Butter Noodles",
+    "ingredients": "Noodles, butter, garlic, parsley, parmesan, black pepper",
+    "instructions": "Cook noodles, melt butter with garlic, toss together, and finish with parsley and parmesan.",
+    "photoUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:09:00.000Z"
+  },
+  {
+    "id": "sample-caprese-sandwich",
+    "title": "Caprese Sandwich",
+    "ingredients": "Ciabatta, mozzarella, tomato, basil, pesto, balsamic glaze",
+    "instructions": "Layer mozzarella, tomato, basil, and pesto on ciabatta, then finish with balsamic glaze.",
+    "photoUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=900&q=80",
+    "photoPublicId": "",
+    "createdAt": "2026-06-14T14:10:00.000Z"
+  }
+]
